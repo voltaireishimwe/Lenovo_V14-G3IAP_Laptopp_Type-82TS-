@@ -1,0 +1,6 @@
+Instructions:
+Remember to plug/connect your AC
+************************************************************************
+SHA256: 648bb90611610b9dab2b29b0f09d7155e76aee384be10dbce8794a9ba3c3b697
+SHA1: d9608d198dc47e20dc799aa2863dfada1a84c5c6
+MD5: 1356aedeb318085bbda3568e63b177f6
